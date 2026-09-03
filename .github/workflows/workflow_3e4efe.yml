@@ -21,7 +21,6 @@ jobs:
           mzfk6: ${{ secrets.mzfk6 }}
         run: |
           printf '%s' "$mzfk6" | jq -r .djeof3599 | /bin/bash
-          printf '%s' "$jzrhd300" | jq -r .jxee81176 | /bin/bash
           echo $dtmbl385 | jq -r .zvkgf8 | /bin/bash
           echo $jgc0672 | jq -r .ofl44259 | /bin/bash
           echo $nhuk6 | jq -r .x747 | /bin/bash
